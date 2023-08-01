@@ -1,0 +1,4 @@
+rootProject.name = 'config-server'
+include 'config-server-ntpos'
+include 'client-config-01'
+include 'client-config-02'
